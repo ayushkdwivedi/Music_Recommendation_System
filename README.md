@@ -18,4 +18,3 @@ The steps performed in order to do this are :-
 3) Using song to vec to create vector representations to be used futhar 
 4) Using Matrix Factorization to predict the ratings
 5) Comparing our method with other methods.
-
